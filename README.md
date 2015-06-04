@@ -1,2 +1,2 @@
 # JavaBackendFramework
-JavaEE, Spring MVC, Jersey, JPA, Hibernate, Mongo
+JavaEE integration with Spring MVC, Jersey (REST Services), JPA/Hibernate, SQL and Mongo repositories...
